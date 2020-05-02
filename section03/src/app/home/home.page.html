@@ -1,0 +1,39 @@
+<ion-header>
+  <ion-toolbar color="primary">
+    <ion-title>Notes</ion-title>
+    <ion-buttons slot="end">
+      <ion-button (click)="showFilters($event)">
+        <ion-icon name="funnel"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="home">
+  <ion-list *mobxAutorun class="home__notes">
+    <ion-card [class.home__notes__item--archived]="!!note.archived" class="home__notes__item" *ngFor="let note of store.filteredNotes">
+      <ion-card-header>
+        <ion-card-title>{{note.title}}</ion-card-title>
+      </ion-card-header>
+    
+      <ion-card-content>
+        <div class="home__notes__item__description">
+          {{note.description}}
+        </div>
+        <div class="home__notes__item__actions">
+          <ion-button (click)="editNote(note)" color="dark" fill="outline">
+            <ion-icon name="create"></ion-icon>
+          </ion-button>
+          <ion-button (click)="archiveNote(note)" color="danger" fill="outline">
+            <ion-icon name="trash"></ion-icon>
+          </ion-button>
+        </div>
+      </ion-card-content>
+    </ion-card>
+  </ion-list>
+  <ion-fab vertical="bottom" horizontal="end" slot="fixed">
+    <ion-fab-button color="warning" (click)="createNote()">
+      <ion-icon name="add"></ion-icon>
+    </ion-fab-button>
+  </ion-fab>
+</ion-content>
