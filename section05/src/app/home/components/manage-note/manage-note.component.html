@@ -1,0 +1,47 @@
+<ion-header>
+  <ion-toolbar color="primary">
+    <ion-buttons slot="start">
+      <ion-button (click)="dismiss()">
+        <ion-icon name="arrow-back">
+        </ion-icon>
+      </ion-button>
+    </ion-buttons>
+    <ion-title>
+      {{mode === manageModes.ADD ? 'Add Note' : 'Edit Note'}}
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding class="manage-note">
+  <form [formGroup]="noteForm" (submit)="formSubmit()">
+    <ion-list>
+      <ion-item>
+        <ion-label position="stacked">
+          Title
+        </ion-label>
+        <ion-input formControlName="title"></ion-input>
+      </ion-item>
+      <ion-item>
+        <ion-label position="stacked">
+          Description
+        </ion-label>
+        <ion-textarea formControlName="description" rows="5"></ion-textarea>
+      </ion-item>
+      <ion-item (click)="takePicture()">
+        <ion-label>
+          Image
+        </ion-label>
+        <ion-thumbnail *ngIf="noteImage" slot="end">
+          <img [src]="noteImage"> 
+        </ion-thumbnail>
+        <ion-icon *ngIf="!noteImage" slot="end" name="camera">
+
+        </ion-icon>
+      </ion-item>
+      <ion-button type="submit" expand="block" fill="outline">
+        Save
+      </ion-button>
+    </ion-list>
+  </form>
+</ion-content>
+  

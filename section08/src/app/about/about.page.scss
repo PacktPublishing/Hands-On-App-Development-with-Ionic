@@ -1,0 +1,10 @@
+.about {
+  &__dev {
+    display: flex;
+    align-items: center;
+    &__text {
+      flex: 1;
+      margin-right: 10px;
+    }
+  }
+}

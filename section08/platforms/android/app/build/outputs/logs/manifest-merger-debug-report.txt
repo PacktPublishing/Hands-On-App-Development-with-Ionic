@@ -1,0 +1,262 @@
+-- Merging decision tree log ---
+provider#org.apache.cordova.camera.FileProvider
+INJECTED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:12:9-14:20
+	android:grantUriPermissions
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:12:92-126
+	android:authorities
+		INJECTED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:12:19-66
+	android:exported
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:12:67-91
+	android:name
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:12:127-180
+provider#de.appplant.cordova.plugin.notification.util.AssetProvider
+INJECTED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:16:9-18:20
+	android:grantUriPermissions
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:16:92-126
+	android:authorities
+		INJECTED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:16:19-66
+	android:exported
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:16:67-91
+	android:name
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:16:127-200
+manifest
+ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.commit451:PhotoView:1.2.4] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/PhotoView-1.2.4.aar/855aac3cb80cc6d87db2f8072a7323fc/AndroidManifest.xml:2:1-12:12
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:2:1-52:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/578160f86fc112df3aee6a6b33cd26c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/640c7bf36e3e1d060ef22a81b8c16439/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/55b51811d0a667d936403dd49cde5a41/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/793a8332a0b4337e5b50f228f38721e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e42eef064055f9812ad7b3665836e2e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/1da138481f19fa19cfaf28999f89755b/AndroidManifest.xml:17:1-22:12
+MERGED from [:CordovaLib] /Users/ahsanayaz/ionotes/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:1-27:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bd31ac6f1c76047ea802e483bf1bd63e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/def4412cb2dadd17bb2f0b54300a6b5d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4bfcc4f0d4dd7d5ffa7d2e03d30185d5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ad0ee9e10b1322b1e7e5f58d77f14956/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:2:98-124
+		INJECTED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:2:70-97
+		INJECTED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:2:125-183
+	android:versionCode
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:2:46-69
+		INJECTED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:3:5-191
+	android:largeScreens
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:3:23-48
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:5:5-22:19
+	android:supportsRtl
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:5:175-201
+	android:label
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:5:81-113
+	android:hardwareAccelerated
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:5:18-52
+	android:icon
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:5:53-80
+	android:networkSecurityConfig
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:5:114-174
+activity#io.ionic.starter.MainActivity
+ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:6:9-11:20
+	android:label
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:6:97-134
+	android:launchMode
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:6:135-165
+	android:windowSoftInputMode
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:6:257-299
+	android:configChanges
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:6:19-96
+	android:theme
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:6:194-256
+	android:name
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:6:166-193
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:7:13-10:29
+	android:label
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:7:28-65
+action#android.intent.action.MAIN
+ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:9:17-77
+	android:name
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:9:27-74
+activity#com.sarriaroman.PhotoViewer.PhotoActivity
+ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:15:9-143
+	android:theme
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:15:76-140
+	android:name
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:15:19-75
+receiver#de.appplant.cordova.plugin.localnotification.TriggerReceiver
+ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:19:9-122
+	android:exported
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:19:19-43
+	android:name
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:19:44-119
+receiver#de.appplant.cordova.plugin.localnotification.ClearReceiver
+ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:20:9-120
+	android:exported
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:20:19-43
+	android:name
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:20:44-117
+activity#de.appplant.cordova.plugin.localnotification.ClickReceiver
+ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:21:9-205
+	android:launchMode
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:21:44-79
+	android:exported
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:21:19-43
+	android:theme
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:21:154-202
+	android:name
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:21:80-153
+uses-sdk
+ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:23:5-74
+INJECTED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:23:5-74
+MERGED from [com.commit451:PhotoView:1.2.4] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/PhotoView-1.2.4.aar/855aac3cb80cc6d87db2f8072a7323fc/AndroidManifest.xml:8:5-10:41
+MERGED from [com.commit451:PhotoView:1.2.4] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/PhotoView-1.2.4.aar/855aac3cb80cc6d87db2f8072a7323fc/AndroidManifest.xml:8:5-10:41
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.1] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/578160f86fc112df3aee6a6b33cd26c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/578160f86fc112df3aee6a6b33cd26c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/640c7bf36e3e1d060ef22a81b8c16439/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/640c7bf36e3e1d060ef22a81b8c16439/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/55b51811d0a667d936403dd49cde5a41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/55b51811d0a667d936403dd49cde5a41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/793a8332a0b4337e5b50f228f38721e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/793a8332a0b4337e5b50f228f38721e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e42eef064055f9812ad7b3665836e2e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e42eef064055f9812ad7b3665836e2e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/1da138481f19fa19cfaf28999f89755b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/1da138481f19fa19cfaf28999f89755b/AndroidManifest.xml:20:5-44
+MERGED from [:CordovaLib] /Users/ahsanayaz/ionotes/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] /Users/ahsanayaz/ionotes/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bd31ac6f1c76047ea802e483bf1bd63e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bd31ac6f1c76047ea802e483bf1bd63e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/def4412cb2dadd17bb2f0b54300a6b5d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/def4412cb2dadd17bb2f0b54300a6b5d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4bfcc4f0d4dd7d5ffa7d2e03d30185d5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/4bfcc4f0d4dd7d5ffa7d2e03d30185d5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ad0ee9e10b1322b1e7e5f58d77f14956/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ad0ee9e10b1322b1e7e5f58d77f14956/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:23:5-74
+	android:targetSdkVersion
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:23:42-71
+	android:minSdkVersion
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:23:15-41
+		INJECTED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:24:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:25:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:26:5-68
+	android:name
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:26:22-65
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:13:13-123
+	android:resource
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:13:75-120
+	android:name
+		ADDED from /Users/ahsanayaz/ionotes/platforms/android/app/src/main/AndroidManifest.xml:13:24-74
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.22.aar/f061f7750a68392dd967ee07cb43c54b/AndroidManifest.xml:50:22-86

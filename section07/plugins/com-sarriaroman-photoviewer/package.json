@@ -1,0 +1,65 @@
+{
+  "_args": [
+    [
+      "com-sarriaroman-photoviewer@1.2.4",
+      "/Users/ahsanayaz/Work/videos-blogs-talks/packt/ionotes/ionotes"
+    ]
+  ],
+  "_from": "com-sarriaroman-photoviewer@1.2.4",
+  "_id": "com-sarriaroman-photoviewer@1.2.4",
+  "_inBundle": false,
+  "_integrity": "sha512-ousSeDOkFPDGAexPTknye18GgQZLZGPh32D+JTyoLbxrLmk1cy7kgAytNWAHgoz7wjP9OJF6w+Zj1qfuLoW31g==",
+  "_location": "/com-sarriaroman-photoviewer",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "com-sarriaroman-photoviewer@1.2.4",
+    "name": "com-sarriaroman-photoviewer",
+    "escapedName": "com-sarriaroman-photoviewer",
+    "rawSpec": "1.2.4",
+    "saveSpec": null,
+    "fetchSpec": "1.2.4"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/com-sarriaroman-photoviewer/-/com-sarriaroman-photoviewer-1.2.4.tgz",
+  "_spec": "1.2.4",
+  "_where": "/Users/ahsanayaz/Work/videos-blogs-talks/packt/ionotes/ionotes",
+  "author": {
+    "name": "Román A. Sarria"
+  },
+  "bugs": {
+    "url": "https://github.com/sarriaroman/photoviewer/issues"
+  },
+  "cordova": {
+    "id": "com-sarriaroman-photoviewer",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "description": "This plugin is intended to show a picture from an URL into a Photo Viewer with zoom features.",
+  "devDependencies": {
+    "typescript": "3.2.2"
+  },
+  "homepage": "https://github.com/sarriaroman/photoviewer#readme",
+  "keywords": [
+    "cordova",
+    "photoviewer",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "MIT",
+  "name": "com-sarriaroman-photoviewer",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarriaroman/photoviewer.git"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "version": "1.2.4"
+}

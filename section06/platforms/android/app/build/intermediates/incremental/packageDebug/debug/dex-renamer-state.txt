@@ -1,0 +1,4 @@
+#Wed Feb 05 23:06:01 CET 2020
+base.0=/Users/ahsanayaz/Work/videos-blogs-talks/packt/ionotes/ionotes/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,73 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/ahsanayaz/Work/videos-blogs-talks/packt/ionotes/ionotes/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/640c7bf36e3e1d060ef22a81b8c16439/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "5,6,8,114,125,127,128,133,135",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "248,337,466,5601,6288,6464,6586,6848,7043",
+                        "endColumns": "88,70,72,59,65,121,60,65,66",
+                        "endOffsets": "332,403,534,5656,6349,6581,6642,6909,7105"
+                    }
+                },
+                {
+                    "source": "/Users/ahsanayaz/Work/videos-blogs-talks/packt/ionotes/ionotes/platforms/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,2,-1",
+                        "startColumns": "-1,4,-1",
+                        "startOffsets": "-1,55,-1",
+                        "endColumns": "-1,44,-1",
+                        "endOffsets": "-1,95,-1"
+                    },
+                    "to": {
+                        "startLines": "116,117,118",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "5731,5795,5840",
+                        "endColumns": "63,44,58",
+                        "endOffsets": "5790,5835,5894"
+                    }
+                },
+                {
+                    "source": "/Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/1da138481f19fa19cfaf28999f89755b/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "3,4,7,9,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,115,119,120,121,126,129,134,136,137",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "116,185,408,539,3910,3980,4048,4120,4190,4251,4312,4373,4435,4499,4561,4622,4690,4790,4850,4916,4989,5058,5115,5167,5229,5301,5377,5412,5447,5497,5531,5566,5661,5899,5970,6087,6354,6647,6914,7110,7182",
+                        "endLines": "3,4,7,9,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,115,119,120,124,126,132,134,136,137",
+                        "endColumns": "68,62,57,73,69,67,71,69,60,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,33,34,34,69,70,116,12,109,12,128,71,66",
+                        "endOffsets": "180,243,461,608,3975,4043,4115,4185,4246,4307,4368,4430,4494,4556,4617,4685,4785,4845,4911,4984,5053,5110,5162,5224,5296,5372,5407,5442,5492,5526,5561,5596,5726,5965,6082,6283,6459,6843,7038,7177,7244"
+                    }
+                },
+                {
+                    "source": "/Users/ahsanayaz/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/793a8332a0b4337e5b50f228f38721e9/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,138",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,7249",
+                        "endLines": "2,140",
+                        "endColumns": "60,12",
+                        "endOffsets": "111,7389"
+                    }
+                }
+            ]
+        }
+    ]
+}

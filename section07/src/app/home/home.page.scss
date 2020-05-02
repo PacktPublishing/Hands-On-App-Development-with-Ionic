@@ -1,0 +1,22 @@
+.home {
+  &__notes {
+    &__item {
+      border-left: 4px solid var(--ion-color-primary);
+      &__img {
+        height: 200px;
+        object-fit: cover;
+      }
+      &__description {
+        margin-bottom: 16px;
+      }
+      &__actions {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+      }
+      &--archived {
+        border-left-color: var(--ion-color-danger);
+      }
+    }
+  }
+}
